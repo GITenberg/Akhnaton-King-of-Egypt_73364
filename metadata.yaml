@@ -1,0 +1,31 @@
+_repo: Akhnaton-King-of-Egypt_73364
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Duddington, Natalie A.
+    gutenberg_agent_id: '57044'
+    url: http://www.gutenberg.org/2009/agents/57044
+creator:
+  author:
+    agent_name: Merezhkovsky, Dmitri
+    gutenberg_agent_id: '57043'
+    url: http://www.gutenberg.org/2009/agents/57043
+description: ''
+gutenberg_issued: '2024-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73364'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.b3933829&seq=9
+pgterms:marc905: 20240401110700merezhkovs
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bE. P. Dutton & Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Akhnaton, King of Egypt
+url: http://www.gutenberg.org/ebooks/73364
