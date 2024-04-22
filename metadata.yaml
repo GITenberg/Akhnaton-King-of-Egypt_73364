@@ -5,12 +5,17 @@ contributor:
     agent_name: Duddington, Natalie A.
     gutenberg_agent_id: '57044'
     url: http://www.gutenberg.org/2009/agents/57044
+covers:
+- cover_type: archival
+  image_path: 73364-h/images/img-cover.png
 creator:
   author:
     agent_name: Merezhkovsky, Dmitri
     gutenberg_agent_id: '57043'
     url: http://www.gutenberg.org/2009/agents/57043
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73364#Akhnaton-King-of-Egypt
 gutenberg_issued: '2024-04-09'
 gutenberg_type: Text
 identifiers:
